@@ -5,5 +5,5 @@ remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: COE Team - List of Documents and Blogs
-description: Technical Documents ans Blogs from the COE Team.
+title: COE Team's Test Site for Documents Blogs
+description: Technical Documents ans Blogs from the Team for internal use
